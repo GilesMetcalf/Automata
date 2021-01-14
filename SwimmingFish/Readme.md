@@ -6,5 +6,5 @@ Various improvements from the original POC, including:
     - Less fussy seascape
     - Better seascape / blanking plate fixtures
     
-    Fulll details of construction are in the PDF file.
+    Full details of construction are in the PDF file.
     
